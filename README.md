@@ -1,5 +1,5 @@
 # social-network
-A dummy social network app. Last project of the curriculum of the Spiced Academy Full Stack program.
+A dummy social network app.
 
 <kbd>![](https://github.com/tombonynge/social-network/blob/master/demo.gif)
 </kbd>
